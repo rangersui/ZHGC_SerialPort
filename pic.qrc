@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>image/motor.png</file>
+        <file>image/slowback.png</file>
+        <file>image/slowforward.png</file>
+        <file>image/quickback.png</file>
+        <file>image/quickforward.png</file>
+        <file>image/open.png</file>
+    </qresource>
+</RCC>
